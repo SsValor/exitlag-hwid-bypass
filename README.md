@@ -20,7 +20,7 @@ Yes, you need to do this with every new account.
 
 ### This may help you
 
- - I made a <a href="https://greasyfork.org/pt-BR/scripts/420383-automatic-create-account-exitlag">greasyfork script</a> to automatic fill the fields of email and password. 
+ - I made a <a href="https://greasyfork.org/pt-BR/scripts/420383-automatic-create-account-exitlag">greasyfork script</a> to automatically fill the fields of email and password. 
  - So, with one click you can create a new account.
  - I just didn't make a thing to create tons of accounts because they have a google captcha.
 
