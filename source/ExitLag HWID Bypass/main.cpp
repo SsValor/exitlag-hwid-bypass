@@ -247,11 +247,11 @@ allocated_memory + 21 - 8B F8                 - mov edi,eax
 allocated_memory + 23 - B9 00000000           - mov ecx,00000000 { 0 }
 allocated_memory + 28 - 51                    - push ecx
 allocated_memory + 29 - 68 FF009F01           - push allocated_memory + FF { ("rand") }
-allocated_memory + 2E - 68 04019F01           - push 019F0104 { ("ucrtbase") }
-allocated_memory + 33 - BA 600A6276           - mov edx,KERNEL32.GetModuleHandleA { (-1957298293) }
+allocated_memory + 2E - 68 04019F01           - push allocated_memory + 104 { ("ucrtbase") }
+allocated_memory + 33 - BA 600A6276           - mov edx,KERNEL32.GetModuleHandleA
 allocated_memory + 38 - FF D2                 - call edx
 allocated_memory + 3A - 50                    - push eax
-allocated_memory + 3B - BA 50F56176           - mov edx,KERNEL32.GetProcAddress { (-1957298293) }
+allocated_memory + 3B - BA 50F56176           - mov edx,KERNEL32.GetProcAddress 
 allocated_memory + 40 - FF D2                 - call edx
 allocated_memory + 42 - FF D0                 - call eax
 allocated_memory + 44 - 59                    - pop ecx
@@ -273,7 +273,7 @@ allocated_memory + 5B - 58                    - pop eax
 allocated_memory + 5C - 8B 75 08              - mov esi,[ebp+08]
 allocated_memory + 5F - 8D 8D 58FFFFFF        - lea ecx,[ebp-000000A8]
 allocated_memory + 65 - 50                    - push eax
-allocated_memory + 66 - B8 9FD49D00           - mov eax,ExitLag.exe+5D49F { (88) }
+allocated_memory + 66 - B8 9FD49D00           - mov eax, return_hook { (88) }
 allocated_memory + 6B - FF E0                 - jmp eax
 
 ...
