@@ -24,6 +24,8 @@ Yes, you need to do this with every new account.
  - So, with one click you can create a new account.
  - I just didn't make a thing to create tons of accounts because they have a google captcha.
 
+### Important
+ - This program DO NOT change your hardware ID (hwid). I just edit the memory of the exitlag, so there is no way of your PC get problems by running this program.
 
 ### TODO
  - clean the code
