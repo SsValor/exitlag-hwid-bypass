@@ -26,5 +26,4 @@ Yes, you need to do this with every new account.
 
 
 ### TODO
-(bugs)
- - The rand function may change the address position when exitlag update. I need to get the start address of the rand dll then sum the offset of the function, if that make sense.
+ - clean the code
