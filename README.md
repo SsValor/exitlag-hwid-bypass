@@ -27,5 +27,8 @@ Yes, you need to do this with every new account.
 ### Important
  - This program DO NOT change your hardware ID (hwid). I just edit the memory of the exitlag, so there is no way of your PC get problems by running this program.
 
+### How to download?
+ - https://github.com/bwmsdroid/exitlag-hwid-bypass/releases/
+
 ### TODO
  - clean the code
