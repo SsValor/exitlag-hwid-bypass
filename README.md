@@ -19,17 +19,17 @@ Yes, you need to do this with every new account.
   - Then we change the HWID to some other (rand letters)
   When the request is made to the server, the server will think it is a new pc and it will give us 3 days of trial.		
 
-### This may help you
+## This may help you
 
  - I made a <a href="https://greasyfork.org/pt-BR/scripts/420383-automatic-create-account-exitlag">greasyfork script</a> to automatically fill the fields of email and password. 
  - So, with one click you can create a new account.
  - I just didn't make a thing to create tons of accounts because they have a google captcha.
 
-### Important
+## Important
  - This program DO NOT change your hardware ID (hwid). I just edit the memory of the exitlag, so there is no way of your PC get problems by running this program.
 
-### How to download?
+## How to download?
  - https://github.com/bwmsdroid/exitlag-hwid-bypass/releases/
 
-### TODO
+## TODO
  - clean the code
