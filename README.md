@@ -8,8 +8,9 @@ Exitlag limit the trial account creation to ONE account per HWID. You don't supp
 So what this program do is bypass this protection.
 
 ## How to use?
-- Compile (or download the released version) and execute this program. Then execute ExitLag.
+- Compile (or download the released version) and execute this program. It will execute exitlag.
 - Login with a new account (create one with a tempemail, such has <a href="https://www.developermail.com/mail/">this one</a>).
+- Logout you account. Login again. (without close exitlag)
 - You gonna see that there are 3 days of trial.
 Yes, you need to do this with every new account.
     
