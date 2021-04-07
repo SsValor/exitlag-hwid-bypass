@@ -1,6 +1,7 @@
 # ExitLag HWID Bypass
-<a href="www.exitlag.com/">
+<a href="https://www.exitlag.com/">
 <img src="https://www.exitlag.com/img/exitlag.png"></a>
+
 Do you wanna create more than one trial account on exitlag? So this 'spoofer' is for you!
 
 ## Why? 
