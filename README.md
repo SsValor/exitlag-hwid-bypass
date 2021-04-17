@@ -10,8 +10,7 @@ So what this program do is bypass this protection.
 
 ## How to use?
 - Compile (or download the released version) and execute this program. It will execute exitlag.
-- Login with a new account (create one with a tempemail, such has <a href="https://www.developermail.com/mail/" target="_blank">this one</a> or  <a href="https://www.gmailnator.com/" target="_blank">this one</a>).
-- Logout you account. Login again. (without close exitlag)
+- Login with a new account (create one with a tempemail, such has <a href="https://www.gmailnator.com/" target="_blank">this one</a>).
 - You gonna see that there are 3 days of trial.
 Yes, you need to do this with every new account.
     
